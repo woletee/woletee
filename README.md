@@ -7,7 +7,7 @@
 - ⚡ I love sketching
 
 
- [Personal Website] (https://woletee.github.io/)
+ Personal Website (https://woletee.github.io/)
 <!--
 **woletee/woletee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
