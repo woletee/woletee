@@ -2,7 +2,7 @@
 - Liyew is Here!
 - 🔭 I’m currently working on solving the Abstraction and Reasoning corpus 
 - 🌱 I’m Interested in ML, DL, Reinforcement Learning
-- 💬 Ask me about ...
+- 💬 Ask me about ...You can find me on Instagram, Twitter
 - 😄 Pronouns: she/her
 - ⚡ I love sketching 
 <!--
