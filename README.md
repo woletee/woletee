@@ -4,7 +4,7 @@
 - 🌱 I’m Interested in ML, DL, Reinforcement Learning
 - 💬 Ask me about ...
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I like sketching 
+- ⚡ I love sketching 
 <!--
 **woletee/woletee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
