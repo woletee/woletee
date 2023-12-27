@@ -1,0 +1,13 @@
+### Hi there 👋
+
+<!--
+**woletee/woletee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+- Hello Wolrd , Liyew is Here!
+- 🔭 I’m currently working on solving the Abstraction and Reasoning corpus 
+- 🌱 I’m Interested in ML, DL, Reinforcement Learning
+- 💬 Ask me about ...
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I like sketching 
+-->
