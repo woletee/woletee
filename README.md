@@ -1,7 +1,7 @@
 ###  Hello Wolrd 👋
 - Liyew is Here!
 - 🔭 I’m currently working on solving the Abstraction and Reasoning corpus 
-- 🌱 I’m Interested in ML, DL, Reinforcement Learning
+- 🌱 I’m Interested in  Evolutionary Computation, Deep Learning ,Machine learning
 - 💬 Ask me about ...You can find me on Instagram, Twitter
 - 😄 Pronouns: she/her
 - ⚡ I love sketching
