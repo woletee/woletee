@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://woletee.github.io/diffusion-papers-/start/">
-    <img src="banner.svg" alt="Marya's Lab: welcome, press start" width="100%">
+    <img src="banner.svg" alt="Marya's Quest: welcome, press start" width="100%">
   </a>
 </p>
 
